@@ -1,1 +1,1 @@
-This is a dummy program for Version 1 of my Software.
+This is a dummy program for Version 2 of my Software.
